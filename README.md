@@ -1,4 +1,4 @@
-### Hi there 👋
+### 目前方向和代码关系不大，偶尔整点玩具 👋
 
 <!--
 **MyAngelRangii/MyAngelRangii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
